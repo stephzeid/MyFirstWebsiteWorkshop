@@ -16,3 +16,5 @@ Notes of the course:
 - When you have more then one <p> you can add an identification number to differentiate them ( <p id="id1">) then in CSS you can identify it as #id1 and style it how you want
 - <img src="To add a picture or url link"> so to paste the source
 - you can adjust the length and width for the picture in pixels (picture of light)
+- you can adjust the pictures size with percentage (it adjusts the web page with the size of the window)
+- Responsive websites: will adjust to the size of the monitor. Dynamic change and responding to the size of the page
