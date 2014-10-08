@@ -14,4 +14,5 @@ Notes of the course:
 - <hr> used to add a line on the page
 - CSS: Cascading Style Sheets -> makes the website look pretty
 - When you have more then one <p> you can add an identification number to differentiate them ( <p id="id1">) then in CSS you can identify it as #id1 and style it how you want
-
+- <img src="To add a picture or url link"> so to paste the source
+- you can adjust the length and width for the picture in pixels (picture of light)
