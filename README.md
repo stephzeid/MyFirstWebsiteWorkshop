@@ -19,7 +19,11 @@ Notes of the course:
 - you can adjust the pictures size with percentage (it adjusts the web page with the size of the window)
 - Responsive websites: will adjust to the size of the monitor. Dynamic change and responding to the size of the page
 - Learning about in browser development  - "view page source" "inspect element -> magnify"
-
+- Learning how to implement Javascript in the script section  - to make the page dynamic (not a markeup language, real programing language)
 
 Attendees:
 esami088@uottawa.ca
+akuitchoua@yahoo.fr
+aelra073@uottawa.ca
+smift067@uottawa.ca
+degre007@uottawa.ca
