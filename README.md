@@ -18,3 +18,8 @@ Notes of the course:
 - you can adjust the length and width for the picture in pixels (picture of light)
 - you can adjust the pictures size with percentage (it adjusts the web page with the size of the window)
 - Responsive websites: will adjust to the size of the monitor. Dynamic change and responding to the size of the page
+- Learning about in browser development  - "view page source" "inspect element -> magnify"
+
+
+Attendees:
+esami088@uottawa.ca
